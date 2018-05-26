@@ -971,4 +971,4 @@ client.on("guildCreate", guild => {
 });
 
 
-client.login('NDQ5MzQxNDI4MTcxMDE0MTQ0.DeooBw.4C4m5INvtTyDgAxN5sG30nTX7wI');
+client.login('process.env.token');
