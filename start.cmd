@@ -1,3 +1,3 @@
-node index.js
+node Discord.js
 
 pause
